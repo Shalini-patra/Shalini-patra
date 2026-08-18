@@ -3,23 +3,29 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img src="https://media.giphy.com/media/QX8QxDXQzpEpG1Hxhp/giphy.gif" width="100" alt="Developer Coder Face Animation" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/3o7TKMcVT7bBIcNcuU/giphy.gif" width="100" alt="Analytical Focused Face Animation" />
+</p>
+
 # Hi there 👋 I'm T Shalini Patra
 
 ### 📊 Data Analyst | Python • SQL • BI • ETL Automation
 
-I’m a **Data Analyst with a background in Mathematics & Statistics**, passionate about turning raw data into **actionable insights, automated workflows, and measurable business outcomes**.
+I'm a **Data Analyst with a background in Mathematics & Statistics**, passionate about turning raw data into **actionable insights, automated workflows, and measurable business outcomes**.
 
-I work across **data analytics, product analytics, ETL automation, business intelligence, and predictive analytics** — from extracting and transforming data to building dashboards and translating findings into business decisions.
+I work across **data analytics, product analytics, ETL automation, business intelligence, and predictive analytics** — from extracting and transforming data to building dashboards and translatin[...]
 
 ---
 
@@ -29,7 +35,7 @@ I work across **data analytics, product analytics, ETL automation, business inte
 * 🌱 **Currently learning:** Machine Learning, AI/ML Engineering, advanced data engineering & MLOps
 * 👯 **Looking to collaborate on:** Data Analytics, Product Analytics, ML & data-driven projects
 * 💬 **Ask me about:** Python, SQL, Power BI, Looker Studio, ETL pipelines, GA4 & analytics
-* 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/) · [Email](mailto:tshalinipatra@gmail.com)
+* 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/patrashalini) · [Email](mailto:tshalinipatra@gmail.com)
 * 🎓 **Background:** B.Sc. in Mathematics & Statistics
 * ⚡ **Fun fact:** I started with Mathematics and gradually turned my interest in numbers into a career in Data Analytics.
 
