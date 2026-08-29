@@ -203,13 +203,6 @@ Data analysis project using API-based data collection and Python analytics.
 
 ---
 
-## 📊 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shalini-patra&theme=github-compact&hide_border=true" />
-</p>
----
-
 ## 🎯 Currently Learning
 
 * 🤖 Machine Learning & Predictive Analytics
