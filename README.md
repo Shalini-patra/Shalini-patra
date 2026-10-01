@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9wayy0LSSSN/giphy.gif" width="120" alt="Developer Coding Animation" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120" alt="Data Analysis Focused Face" />
 </p>
 
