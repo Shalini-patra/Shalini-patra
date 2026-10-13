@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋 I'm T Shalini Patra
 
-### 📊 Data Analyst | Python • SQL • BI • ETL Automation
+### 📊 Data Analyst | Python • SQL • BI • ETL Automation • Database Management
 
 I'm a **Data Analyst with a background in Mathematics & Statistics**, passionate about turning raw data into **actionable insights, automated workflows, and measurable business outcomes**.
 
